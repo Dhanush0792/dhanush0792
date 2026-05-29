@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=2&width=100%25"/>
 </div>
